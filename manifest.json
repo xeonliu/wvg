@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Widevine L3 Decrypter",
-  "version": "241029.1",
-  "version_name": "4316530",
+  "version": "260924.1",
+  "version_name": "1765416",
   "description": "Read the Widevine license traffic of the current page and turn it into content keys.",
   "icons": {
     "128": "icon.png"
